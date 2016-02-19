@@ -1,0 +1,4 @@
+/var/log/flipkart/fk-covenant/covenant-0.log:INFO [2016-02-19 11:45:48,124] [promise-aggregator] [R-080adc74-d226-415a-a95a-783a5d974a2d] [SourceRepositoryImpl]: [IM] Listing falls in trap LSTSHTDVY9H7DCSTEPUXYVZFF
+/var/log/flipkart/fk-covenant/covenant-1.log:INFO [2016-02-19 11:39:41,684] [qtp273229927-4852 - POST /guaranteed_promise/v2/400074] [R-T-39be82ad-d8a9-4f1b-b73e-ee97cf64bc09] [SourceRepositoryImpl]: [IM] Listing falls in trap LSTWMNE8YF9VZ9ZXQNEZLPGBK
+/var/log/flipkart/fk-covenant/covenant-1.log:INFO [2016-02-19 11:40:40,837] [qtp273229927-3156 - POST /guaranteed_promise/v2/560057] [R-T-1f52fa98-f272-4054-ac42-27cc4b4bde16] [SourceRepositoryImpl]: [IM] Listing falls in trap LSTRTBE998RZFGYYYTWV3RGM0
+/var/log/flipkart/fk-covenant/covenant.log:INFO [2016-02-19 11:47:45,979] [qtp273229927-4882 - POST /guaranteed_promise/v2/583123] [R-T-a0581d97-45f6-4c56-b250-6a7ad058de94] [SourceRepositoryImpl]: [IM] Listing falls in trap LSTBYBEAGPNDUX4FCUHDB72PK

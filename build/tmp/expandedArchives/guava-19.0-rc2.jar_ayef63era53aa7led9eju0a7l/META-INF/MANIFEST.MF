@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1442513359377
+Build-Jdk: 1.8.0-google-v7
+Built-By: cgdecker
+Bundle-Description: Guava is a suite of core and expanded libraries that
+  include    utility classes, google's collections, io classes, and much
+     much more.    Guava has only one code dependency - javax.annotation
+ ,    per the JSR-305 spec.
+Bundle-DocURL: https://guava-libraries.googlecode.com/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Guava: Google Core Libraries for Java
+Bundle-SymbolicName: com.google.guava
+Bundle-Version: 19.0.0.rc2
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.google.common.annotations;version="19.0.0.rc2",com.g
+ oogle.common.base;uses:="javax.annotation";version="19.0.0.rc2",com.goo
+ gle.common.hash;uses:="com.google.common.primitives,com.google.common.b
+ ase,javax.annotation,com.google.common.math";version="19.0.0.rc2",com.g
+ oogle.common.escape;uses:="com.google.common.base,javax.annotation";ver
+ sion="19.0.0.rc2",com.google.common.reflect;uses:="javax.annotation,com
+ .google.common.base,com.google.common.collect,com.google.common.primiti
+ ves";version="19.0.0.rc2",com.google.common.html;uses:="com.google.comm
+ on.escape,javax.annotation";version="19.0.0.rc2",com.google.common.util
+ .concurrent;uses:="com.google.common.base,javax.annotation,sun.misc,com
+ .google.common.collect,com.google.common.math,com.google.common.primiti
+ ves";version="19.0.0.rc2",com.google.common.net;uses:="javax.annotation
+ ,com.google.common.base,com.google.common.primitives,com.google.common.
+ hash,com.google.common.io,com.google.common.collect,com.google.common.e
+ scape";version="19.0.0.rc2",com.google.common.math;uses:="com.google.co
+ mmon.base,com.google.common.primitives,javax.annotation";version="19.0.
+ 0.rc2",com.google.common.primitives;uses:="javax.annotation,com.google.
+ common.base,sun.misc";version="19.0.0.rc2",com.google.common.cache;uses
+ :="com.google.common.collect,com.google.common.util.concurrent,javax.an
+ notation,com.google.common.base,com.google.common.primitives,sun.misc";
+ version="19.0.0.rc2",com.google.common.xml;uses:="com.google.common.esc
+ ape,javax.annotation";version="19.0.0.rc2",com.google.common.eventbus;u
+ ses:="com.google.common.base,com.google.common.collect,com.google.commo
+ n.util.concurrent,javax.annotation,com.google.common.cache,com.google.c
+ ommon.reflect";version="19.0.0.rc2",com.google.common.io;uses:="javax.a
+ nnotation,com.google.common.base,com.google.common.math,com.google.comm
+ on.hash,com.google.common.collect,com.google.common.primitives";version
+ ="19.0.0.rc2",com.google.common.collect;uses:="com.google.common.base,j
+ avax.annotation,com.google.common.primitives,com.google.common.math";ve
+ rsion="19.0.0.rc2"
+Import-Package: javax.annotation;resolution:=optional,sun.misc;resolutio
+ n:=optional
+Tool: Bnd-1.50.0

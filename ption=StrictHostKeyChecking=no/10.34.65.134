@@ -1,0 +1,5 @@
+ERROR [2016-02-19 11:46:05,829] [[hystrix]-GET_INVENTORY-9] [L:-3114774929783569260] [CommunicationServiceImpl]: [IM] Exception occured while updating inventory : java.util.concurrent.TimeoutException: No response received after 700
+ERROR [2016-02-19 11:46:05,834] [qtp273229927-4929 - POST /promise/v1] [L:-3114774929783569260] [InventoryMasterServiceImpl]: [IM] Failed to read inventory.
+INFO [2016-02-19 11:48:49,975] [qtp273229927-5124 - POST /promise/v1/700014] [7fe56925-a996-4abb-bc47-5cf890b80a06] [SourceRepositoryImpl]: [IM] Listing falls in trap LSTACCDZRE8DWQWJKYY7AX5SE
+ERROR [2016-02-19 11:48:53,354] [[hystrix]-GET_INVENTORY-9] [f4f5b7f2-052d-4d89-b073-83d14870221a] [CommunicationServiceImpl]: [IM] Exception occured while updating inventory : java.util.concurrent.TimeoutException: No response received after 700
+ERROR [2016-02-19 11:48:53,359] [qtp273229927-3327 - POST /promise/v1/131010] [f4f5b7f2-052d-4d89-b073-83d14870221a] [InventoryMasterServiceImpl]: [IM] Failed to read inventory.

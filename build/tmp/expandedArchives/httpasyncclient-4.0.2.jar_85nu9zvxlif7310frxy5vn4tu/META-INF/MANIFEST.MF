@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: HttpComponents Apache HttpAsyncClient
+Implementation-Version: 4.0.2
+Built-By: oleg
+Specification-Vendor: The Apache Software Foundation
+Created-By: Apache Maven 3.0.5
+url: http://hc.apache.org/httpcomponents-asyncclient
+X-Compile-Source-JDK: 1.5
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.apache
+Build-Jdk: 1.7.0_60
+Specification-Title: HttpComponents Apache HttpAsyncClient
+Specification-Version: 4.0.2
+Implementation-Build: tags/4.0.2-RC1/httpasyncclient@r1615306; 2014-08
+ -02 14:54:25+0200
+X-Compile-Target-JDK: 1.5
+Archiver-Version: Plexus Archiver
+

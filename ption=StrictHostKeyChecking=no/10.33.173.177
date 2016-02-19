@@ -1,0 +1,5 @@
+INFO [2016-02-19 11:44:34,237] [qtp221191612-3093 - POST /promise/v1] [43fb0fcc-3038-431f-bdaf-f70ebe75d155] [SourceRepositoryImpl]: [IM] Listing falls in trap LSTBOK97814472484088WS5DG
+ERROR [2016-02-19 11:45:16,431] [[hystrix]-GET_INVENTORY-8] [bc2d8903-0785-4512-80c2-d690059e70bc] [CommunicationServiceImpl]: [IM] Exception occured while updating inventory : java.util.concurrent.TimeoutException: No response received after 700
+ERROR [2016-02-19 11:45:16,436] [qtp221191612-3310 - POST /promise/v1] [bc2d8903-0785-4512-80c2-d690059e70bc] [InventoryMasterServiceImpl]: [IM] Failed to read inventory.
+INFO [2016-02-19 11:47:15,120] [qtp221191612-5136 - POST /promise/v1/370110] [50138cd8-087e-4f5a-b0a6-a3b77df43a38] [SourceRepositoryImpl]: [IM] Listing falls in trap LSTSARECYCXYCE33UD2HEQK41
+INFO [2016-02-19 11:47:16,232] [qtp221191612-3311 - POST /promise/v1] [b3efcaff-7e37-446c-b6fe-1024d048767b] [SourceRepositoryImpl]: [IM] Listing falls in trap LSTKHKE8X8XZ3DXJKZYZEVQ2R

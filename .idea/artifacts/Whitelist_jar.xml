@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Whitelist:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Whitelist_jar</output-path>
+    <root id="archive" name="Whitelist.jar">
+      <element id="module-output" name="Whitelist" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0-rc2/guava-19.0-rc2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
